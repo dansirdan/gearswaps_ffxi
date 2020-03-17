@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Skinflayer", augments={'"Waltz" potency +2%','DEX+15','Attack+16','DMG:+5',}},
+    sub={ name="Shijo", augments={'DEX+15','"Dual Wield"+5','"Triple Atk."+2',}},
+    ammo="Ginsen",
+    head={ name="Adhemar Bonnet +1", augments={'STR+12','DEX+12','Attack+20',}},
+    body="Pillager's Vest +2",
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs={ name="Samnuha Tights", augments={'STR+5','"Dbl.Atk."+1',}},
+    feet={ name="Plun. Poulaines +1", augments={'Enhances "Assassin\'s Charge" effect',}},
+    neck="Erudit. Necklace",
+    waist="Patentia Sash",
+    left_ear="Brutal Earring",
+    right_ear="Cessance Earring",
+    left_ring="Epona's Ring",
+    right_ring="Rajas Ring",
+    back="Aptitude Mantle +1",
+}

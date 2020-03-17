@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Ipetam", augments={'Accuracy+7 Attack+7','"Dbl.Atk."+3','DMG:+15',}},
+    sub={ name="Sandung", augments={'Accuracy+50','Crit. hit rate+5%','"Triple Atk."+3',}},
+    ammo="Ginsen",
+    head="Meghanada Visor +2",
+    body="Meg. Cuirie +1",
+    hands="Meg. Gloves +1",
+    legs="Meg. Chausses",
+    feet="Meg. Jam. +1",
+    neck="Twilight Torque",
+    waist="Patentia Sash",
+    left_ear="Brutal Earring",
+    right_ear="Ethereal Earring",
+    left_ring="Epona's Ring",
+    right_ring="Rajas Ring",
+    back="Shadow Mantle",
+}

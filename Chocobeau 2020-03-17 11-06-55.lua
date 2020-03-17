@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Ipetam", augments={'Accuracy+7 Attack+7','"Dbl.Atk."+3','DMG:+15',}},
+    sub={ name="Sandung", augments={'Accuracy+50','Crit. hit rate+5%','"Triple Atk."+3',}},
+    ammo="Yetshila",
+    head="Shned. Chapeau +1",
+    body="Shned. Tabard +1",
+    hands="Shned. Gloves +1",
+    legs="Shned. Tights +1",
+    feet={ name="Plun. Poulaines +1", augments={'Enhances "Assassin\'s Charge" effect',}},
+    neck="Love Torque",
+    waist="Thunder Belt",
+    left_ear="Brutal Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Epona's Ring",
+    right_ring="Rajas Ring",
+    back="Atheling Mantle",
+}

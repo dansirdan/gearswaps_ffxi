@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Ipetam", augments={'Accuracy+7 Attack+7','"Dbl.Atk."+3','DMG:+15',}},
+    sub={ name="Sandung", augments={'Accuracy+50','Crit. hit rate+5%','"Triple Atk."+3',}},
+    ammo="Yetshila",
+    head="Pill. Bonnet +1",
+    body="Meg. Cuirie +1",
+    hands="Meg. Gloves +1",
+    legs="Pill. Culottes +1",
+    feet="Meg. Jam. +1",
+    neck="Love Torque",
+    waist="Chiner's Belt +1",
+    left_ear="Brutal Earring",
+    right_ear={ name="Moonshade Earring", augments={'Attack+4','TP Bonus +250',}},
+    left_ring="Ramuh Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Toutatis's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+3','"Store TP"+10',}},
+}
